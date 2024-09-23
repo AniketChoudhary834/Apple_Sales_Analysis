@@ -1,4 +1,4 @@
-# Apple Sales Analysis Jupyter Notebook
+# Apple Product Sales Insights
 
 This Jupyter Notebook provides an analysis of a dataset related to Apple products. It includes various steps for data loading, preprocessing, visualization, and identification of the top 10 smartphones. The notebook is organized into several sections to guide the user through the process.
 
